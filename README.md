@@ -14,7 +14,7 @@ This project is publicly referenced by **Tidal Cyber (Community Edition)** as pa
 > [!IMPORTANT]
 > **Educational & Defensive Use Only**
 >
-> Facad1ng is a proof-of-concept project intended for **security research, phishing awareness training, and authorized penetration testing**.
+> Cyberrhodzurlmask is a proof-of-concept project intended for **security research, phishing awareness training, and authorized penetration testing**.
 > It demonstrates techniques used by real-world attackers so defenders can better recognize, detect, and prevent them.
 >
 > Unauthorized or malicious use is strictly discouraged.
